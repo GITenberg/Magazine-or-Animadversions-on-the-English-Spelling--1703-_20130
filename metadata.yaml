@@ -27,6 +27,8 @@ creator:
 description: Library of Congress catalog record http://lccn.loc.gov/70364698 says
   "The author may have been John White ... It may be, however, that the author ...
   was John Wild."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20130#Magazine-or-Animadversions-on-the-English-Spelling--1703-
 gutenberg_issued: '2006-12-18'
 gutenberg_type: Text
 identifiers:
