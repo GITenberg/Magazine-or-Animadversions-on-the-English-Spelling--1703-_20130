@@ -1,0 +1,45 @@
+_repo: Magazine-or-Animadversions-on-the-English-Spelling--1703-_20130
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Abercrombie, David
+    birthdate: 1909
+    deathdate: 1992
+    gutenberg_agent_id: '9101'
+    url: http://www.gutenberg.org/2009/agents/9101
+    wikipedia: http://en.wikipedia.org/wiki/David_Abercrombie
+  dubious_authors:
+  - agent_name: Wild, John
+    gutenberg_agent_id: '37473'
+    url: http://www.gutenberg.org/2009/agents/37473
+  - agent_name: White, John, master of a boarding-school
+    gutenberg_agent_id: '37472'
+    url: http://www.gutenberg.org/2009/agents/37472
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: G. W.
+    alias: White, John
+    gutenberg_agent_id: '9100'
+    url: http://www.gutenberg.org/2009/agents/9100
+description: Library of Congress catalog record http://lccn.loc.gov/70364698 says
+  "The author may have been John White ... It may be, however, that the author ...
+  was John Wild."
+gutenberg_issued: '2006-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20130'
+language: en
+publication_note: 'Los Angeles :  The Augustan Reprint Society,  1958'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, Publication Number 70
+subjects:
+- !lcsh 'Spelling reform -- Early works to 1800'
+- !lcc 'PE'
+- !lcsh 'English language -- Orthography and spelling -- Early works to 1800'
+title: Magazine, or Animadversions on the English Spelling (1703)
+url: http://www.gutenberg.org/ebooks/20130
